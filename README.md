@@ -1,2 +1,14 @@
 # 500-lottery-journal
-HTML page archive and documentation
+
+页面托管与归档说明
+
+本仓库用于整理 HTML 页面输出结果，并保留对应的仓库说明。
+
+## 目录内容
+
+- 页面文件：发布后的 HTML
+- 说明文件：README.md
+
+## 归档说明
+
+本仓库用于保存发布产物，不额外承诺页面内容长期不变。
